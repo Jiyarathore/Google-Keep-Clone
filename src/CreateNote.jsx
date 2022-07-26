@@ -66,7 +66,7 @@ const CreateNote = (props) => {
                         name="content"
                         value={note.content}
                         onChange={InputEvent}
-                        placeholder="Take a note"
+                        placeholder="Take a note..."
                         onClick = {expandIt}
                         
                         >
