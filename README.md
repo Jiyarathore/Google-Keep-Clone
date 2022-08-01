@@ -18,7 +18,7 @@ This project is a clone of the Google Keeper app to manage all notes. It has bee
 - Download [Node Js and npm(Node package manager)](https://nodejs.org/en/) (npm gets installed by default on downloading Node)
 - Clone the repository by running the command:
 ```
-git clone git@github.com:Jiyarathore/Google-Keep-Clone.git
+git clone https://github.com/Jiyarathore/Google-Keep-Clone.git
 ```
 in your GitBash or terminal of VS Code.
 - Run the command `cd google-keep-clone/keep-clone`
