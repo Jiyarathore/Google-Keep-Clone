@@ -1,3 +1,5 @@
+This project is a clone of the Google Keeper app to manage all notes. It has been developed using React and JSX and styled with CSS and Material UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
